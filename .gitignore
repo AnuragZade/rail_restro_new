@@ -1,0 +1,51 @@
+# Flutter/Dart generated files
+.dart_tool/
+.buildlog/
+build/
+pubspec.lock
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# iOS
+ios/Pods/
+ios/Runner.xcworkspace/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Flutter/App.framework
+ios/ServiceDefinitions.json
+ios/Flutter/Generated.xcconfig
+
+# Android
+android/.gradle/
+android/app/build/
+android/local.properties
+android/captures/
+android/.cxx/
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# IntelliJ / Android Studio
+*.iml
+.idea/
+*.ipr
+*.iws
+
+# Logs
+*.log
+
+# Secrets / Environment files
+.env
+.env.*
+secrets.json
+
+# Temporary files
+*.swp
+*.tmp
+*.temp
+*.DS_Store
+
+# Generated Assets
+assets/gen/
